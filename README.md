@@ -1,41 +1,58 @@
-# AWB-Tracker-Airtable-Lite-Version
-✈️ AWB Tracker (Airtable Lite Version)
-A lightweight internal logistics dashboard built with Airtable to track Air Waybill (AWB) data from global forwarders. This MVP version is designed for rapid deployment within small logistics teams and enables:
+# AWB Tracker – Airtable Lite Version ✈️
 
-📦 Monitoring of AWB statuses across major carriers (DHL, FedEx, etc.)
+A lightweight internal logistics dashboard built with **Airtable** to track Air Waybill (AWB) data from global freight forwarders.  
+This MVP is designed for rapid deployment within small logistics teams and enables:
 
-🔔 Email notifications for delivery events via Airtable Automations
+📦 Real-time monitoring of AWB statuses across major carriers (DHL, FedEx, DGF)  
+🔔 Email alerts powered by Airtable Automations  
+🧑‍💼 Controlled access via password-protected views  
+⚡ Fast iteration and deployment with minimal infrastructure
 
-🧑‍💼 Controlled access through password-protected views
+> ⚠️ This version is a private internal tool and a capstone demo.  
+> All data shown is anonymized. Dashboard access is restricted.
 
-⚡ Quick iteration and proof-of-concept setup with minimal infrastructure
+---
 
-⚠️ Note: This version is intended as a private internal tool and demo for capstone showcasing purposes only. Data is anonymized and dashboard is password-protected.
+## 🔧 Tech Stack
 
-🔧 Tech Stack
-Airtable (Views, Forms, Automations)
+- **Airtable**: Views, Forms, Automations  
+- **JavaScript**: API fetch scripts  
+- **Airtable Automations**: Email alerts (no external NodeMailer needed)
 
-JavaScript (API fetch scripts)
+---
 
-NodeMailer (for alerts, in backend demo)
+## 🚀 Live Demo
 
-Zapier (optional for expanded automation)
+To explore the form input workflow:  
+📄 [AWB Form on Airtable](https://airtable.com/appJTBRvo7TmwTumW/pagt2UKSIdz87P8Qa/form)
 
-🚀 Live Demo
-For demo access, visit the form view:
-📄 Airtable Form
+---
 
-(Dashboard view is private for internal use)
+## 🖼️ Screenshots
 
-📘 Background
-This project was built as a capstone during a software engineering bootcamp and is being used internally to monitor logistics performance across global shipments. It serves as a stepping stone toward a fully custom-built MERN-based Control Tower.
+**📋 Airtable Form**  
+<img width="1645" height="780" alt="AWB Form Screenshot" src="https://github.com/user-attachments/assets/01783d90-f897-4c8a-a01e-b60588a318cd" />
 
-✅ Future Enhancements
-Full React frontend interface
+**📊 Airtable Simplified Dashboard**  
+<img width="829" height="882" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/500c591f-dfee-4354-84e8-afb411f89028" />
 
-Role-based login/authentication
+> 🔒 The full dashboard view is private and restricted to internal users.
 
-Historical trend analysis with charts
+---
 
-Carrier API integrations (with more carriers)
+## 📘 Background
+
+This project was built as a capstone during a software engineering bootcamp.  
+It is actively used to monitor logistics performance across global shipments and serves as a foundation for a full-stack MERN-based Control Tower.
+
+---
+
+## ✅ Future Enhancements
+
+- 🌐 React-based frontend interface  
+- 🔐 Role-based authentication and user management  
+- 📈 Historical trends and analytics dashboard  
+- 📦 Carrier API integrations (more providers to be added)
+
+---
 
