@@ -31,10 +31,10 @@ To explore the form input workflow:
 ## 🖼️ Screenshots
 
 **📋 Airtable Form**  
-<img width="1645" height="780" alt="AWB Form Screenshot" src="https://github.com/user-attachments/assets/01783d90-f897-4c8a-a01e-b60588a318cd" />
+<img width="1645" height="780" alt="AWB Form Screenshot" src="/awb-form.png" />
 
 **📊 Airtable Simplified Dashboard**  
-<img width="829" height="882" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/500c591f-dfee-4354-84e8-afb411f89028" />
+<img width="829" height="882" alt="Dashboard Screenshot" src="/dashboard-screenshot.png" />
 
 > 🔒 The full dashboard view is private and restricted to internal users.
 
