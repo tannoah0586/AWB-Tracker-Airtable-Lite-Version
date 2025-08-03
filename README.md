@@ -3,7 +3,7 @@
 A lightweight internal logistics dashboard built with **Airtable** to track Air Waybill (AWB) data from global freight forwarders.  
 This MVP is designed for rapid deployment within small logistics teams and enables:
 
-📦 Real-time monitoring of AWB statuses across major carriers (DHL, FedEx, DGF)  
+📦 Real-time monitoring of AWB statuses as well as ETA across major carriers (DHL, FedEx, DGF)  
 🔔 Email alerts powered by Airtable Automations  
 🧑‍💼 Controlled access via password-protected views  
 ⚡ Fast iteration and deployment with minimal infrastructure
