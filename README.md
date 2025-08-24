@@ -37,7 +37,7 @@ To explore the form input workflow:
 <img width="829" height="882" alt="Dashboard Screenshot" src="public/dashboard-screenshot.png" />
 
 ** Airable automatic Notification via Email **  
-<img alt="email notification Screenshot" src="public/notification with API on ETA and Status.PNG" />
+<img style="max-width: 50%; alt="email notification Screenshot" src="public/notification with API on ETA and Status.PNG" />
 
 > 🔒 The full dashboard view is private and restricted to internal users.
 
