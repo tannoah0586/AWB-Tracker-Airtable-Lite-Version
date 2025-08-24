@@ -36,6 +36,9 @@ To explore the form input workflow:
 **📊 Airtable Simplified Dashboard**  
 <img width="829" height="882" alt="Dashboard Screenshot" src="public/dashboard-screenshot.png" />
 
+** Airable automatic Notification via Email **  
+<img alt="email notification Screenshot" src="public/notification with API on ETA and Status.png" >
+
 > 🔒 The full dashboard view is private and restricted to internal users.
 
 ---
